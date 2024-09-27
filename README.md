@@ -16,7 +16,7 @@ Make as many notes as you want and have them save to the server! for everyone to
 run `npm i` in the root directory.
 
 ## Usage
-run `node server.js` in the root director. This will give you an 'offline' server, however if you want the full thing... Go to [this](https://github.com/MrCows/Notes-galore) link!
+run `node server.js` in the root director. This will give you an 'offline' server, however if you want the full thing... Go to [this](https://notes-galore.onrender.com/notes) link!
 
 ## License
 
